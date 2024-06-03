@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Nexus</string>
+	<string name="mastodon_api_scopes">read+write+push+crypto+admin:read+admin:write</string>
 	<string name="main_bottom_navigation_view_tab1">Home</string>
 	<string name="main_bottom_navigation_view_tab2">Discover</string>
 	<string name="settings_item1">Include replies in your home feed</string>
