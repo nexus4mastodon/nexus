@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus</string>
+	<string name="app_version">0.0.1</string>
+	<string name="settings_item1">Include replies in your home feed</string>
+	<string name="settings_item2">Include boosts in your home feed</string>
+</resources>
